@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environments
+.env
+.env.*
+
+# SQLite
+*.db
+
+# Test cache
+.pytest_cache/
+.coverage
+
+# VSCode or IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
