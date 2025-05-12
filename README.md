@@ -1,3 +1,5 @@
+![CI](https://github.com/Orr112/AI_Daily_Brief/actions/workflows/ci.yml/badge.svg)
+
 # 📰 AI-Powered Brief Generator
 
 Generate short, AI-written summaries on any topic and store them for later use. Built with FastAPI, OpenAI, and SQLAlchemy.
